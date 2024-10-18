@@ -2,7 +2,7 @@
 ## initial start 
 ```zsh 
 chmod +x pr_template
-mv ${pwd}/pr_template.sh /usr/local/bin/pr_template
+mv "${pwd}/pr_template.sh" /usr/local/bin/pr_template
 ```
 
 ```zsh
